@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VelvetMilkman
-- 👀 I’m interested in blockchain, DAOs, and connecting with people
-- 🌱 I’m currently learning everyday. Going to try to better understand algorithms.
-- 💞️ I’m looking to collaborate on new opportunities and bring your ideas to life.
+- 👀 I’m basic
+- 🌱 I’m currently tired. And hungry.
+- 💞️ I have no idea what I'm doing.
 - 📫 james@figment.io
 
 <!---

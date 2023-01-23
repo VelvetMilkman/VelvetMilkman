@@ -2,7 +2,7 @@
 - 👀 I’m basic
 - 🌱 I’m currently tired. And hungry.
 - 💞️ I have no idea what I'm doing.
-- 📫 james@figment.io
+- 📫 twitter: @velvetmilkman
 
 <!---
 VelvetMilkman/VelvetMilkman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
